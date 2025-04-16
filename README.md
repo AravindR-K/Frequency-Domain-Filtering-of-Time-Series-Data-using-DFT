@@ -92,13 +92,13 @@ This project performs frequency domain filtering (Low-Pass and High-Pass) on tim
 ## 📊 Sample Gnuplot Output
 
 - **Time Domain Signal**  
-  ![Time Domain](./screenshots/time-domain.png)
+  ![Time Domain](./screenshots/time-domain.jpg)
 
 - **Frequency Domain Signal (Low-Pass)**  
-  ![Low Pass](./screenshots/frequency-low-pass.png)
+  ![Low Pass](./screenshots/frequency-low-pass.jpg)
 
 - **Frequency Domain Signal (High-Pass)**  
-  ![High Pass](./screenshots/frequency-high-pass.png)
+  ![High Pass](./screenshots/frequency-high-pass.jpg)
 
 *(Place images in a `screenshots/` folder and update paths if used.)*
 
